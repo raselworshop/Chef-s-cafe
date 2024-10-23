@@ -7,7 +7,8 @@ import Sidebar from './Components/Functional-component/Sidebar'
 import { useState } from 'react'
 
 function App() {
-  const [reciepeQueue, setReciepeQueue] = useState([]); 
+  const [reciepeQueue, setReciepeQueue] = useState([]);
+   
   const handleToCook = reciepe =>{
     // console.log(reciepe, 'calling here')
     if(!reciepeQueue.some(r=> r.recipe_id === reciepe.recipe_id)){

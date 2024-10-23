@@ -13,7 +13,6 @@ const ReciepesCard = ({handleToCook}) => {
     // console.log(reciepes)
     return (
         <div className="md:w-2/3">
-            <h2>Recieps card: {reciepes.length}</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
                 {reciepes.map(reciepe =>
                     <div key={reciepe.recipe_id} className="card bg-base-100 border-2">
