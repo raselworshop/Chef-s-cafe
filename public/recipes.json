@@ -1,0 +1,92 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Spaghetti Carbonara",
+        "image": "https://i.ibb.co/b1FXS03/pexels-aphy-10017.jpg",
+        "short_description": "A classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+        "ingredients": [
+            "Spaghetti",
+            "Eggs",
+            "Parmesan cheese",
+            "Pancetta",
+            "Black pepper"
+        ],
+        "preparation_time": "30 min",
+        "calories": "400 calories"
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "Chicken Caesar Salad",
+        "image": "https://i.ibb.co/dM0ZVfv/pexels-mart.jpg",
+        "short_description": "A fresh and healthy Caesar salad with grilled chicken, croutons, and Caesar dressing.",
+        "ingredients": [
+            "Romaine lettuce",
+            "Grilled chicken",
+            "Croutons",
+            "Caesar dressing",
+            "Parmesan cheese"
+        ],
+        "preparation_time": "20 min",
+        "calories": "350 calories"
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "Margherita Pizza",
+        "image": "https://i.ibb.co/JspKQ0K/pexels-kalabala-33406.jpg",
+        "short_description": "A simple pizza with fresh tomatoes, mozzarella, and basil.",
+        "ingredients": [
+            "Pizza dough",
+            "Tomato sauce",
+            "Mozzarella cheese",
+            "Fresh basil",
+            "Olive oil"
+        ],
+        "preparation_time": "45 min",
+        "calories": "550 calories"
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "Beef Tacos",
+        "image": "https://i.ibb.co/4WXZcxZ/pexels-valeriya-1860205.jpg",
+        "short_description": "Soft tortillas filled with seasoned beef, lettuce, and cheese.",
+        "ingredients": [
+            "Ground beef",
+            "Tortillas",
+            "Lettuce",
+            "Cheddar cheese",
+            "Salsa"
+        ],
+        "preparation_time": "25 min",
+        "calories": "500 calories"
+    },
+    {
+        "recipe_id": 5,
+        "recipe_name": "Vegetable Stir-fry",
+        "image": "https://i.ibb.co/TRVhTGN/pexels-jerchung-2116090.jpg",
+        "short_description": "A healthy stir-fry with mixed vegetables and soy sauce.",
+        "ingredients": [
+            "Broccoli",
+            "Carrots",
+            "Bell peppers",
+            "Soy sauce",
+            "Garlic"
+        ],
+        "preparation_time": "15 min",
+        "calories": "250 calories"
+    },
+    {
+        "recipe_id": 6,
+        "recipe_name": "Chocolate Cake",
+        "image": "https://i.ibb.co/VY3tXKC/pexels-valeriya-1247677.jpg",
+        "short_description": "A rich and moist chocolate cake topped with chocolate ganache.",
+        "ingredients": [
+            "Flour",
+            "Cocoa powder",
+            "Sugar",
+            "Eggs",
+            "Butter"
+        ],
+        "preparation_time": "60 min",
+        "calories": "600 calories"
+    }
+]
