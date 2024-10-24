@@ -16,7 +16,7 @@ const Sidebar = ({ reciepeQueue, handleRemoveRecipes, preparedRecipes, calculate
                             <th></th>
                         </tr>
                     </thead>
-                    <tbody>
+                    <tbody>                    
                         {reciepeQueue.map((recipe, index) => (
                             <tr className="hover hover:rounded-xl" key={index}>
                                 <th>{index + 1}</th>

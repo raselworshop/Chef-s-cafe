@@ -5,7 +5,7 @@ const ReciepesCard = ({handleToCook}) => {
     const [reciepes, setReciepes] = useState([]);
 
     useEffect(() => {
-        fetch('../../../public/recipes.json')
+        fetch('/recipes.json')
             .then(res => res.json())
             // .then(data => console.log(data))
             .then(data => setReciepes(data))
